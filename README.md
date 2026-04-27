@@ -60,7 +60,7 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:5173` in your browser — you're live! 🎉
+Open `https://my-portfolio-ten-nu-57.vercel.app/` in your browser — you're live! 🎉
 
 ---
 
